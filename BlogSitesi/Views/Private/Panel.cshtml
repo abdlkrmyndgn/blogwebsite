@@ -1,0 +1,95 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Panel</title>
+    <style>
+        .textareapr{
+            width:350px;
+            height:150px;
+        }
+
+        .textboxpr {
+            width: 250px;
+           
+        }
+    </style>
+</head>
+<body>
+    <div style="text-align:center;margin-bottom:50px">
+        @Html.Partial("_succesbarPage")
+        <hr />
+        <h3>Gönderi Ekleme Alanı</h3>
+        @using (Html.BeginForm("Panelveri", "Private", FormMethod.Post))
+        {
+            <div class="form-horizontal" style="font-size:10px">
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Resim URL</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("image", null, new { @class = "textboxpr" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Makale Başlık</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("makaleBaslik", null, new { @class = "textboxpr" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Alt Başlık</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("altBaslik", null, new { @class = "textboxpr" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Yayınlanma Tarihi</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("makaleTarih", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Makale İçeriği</label>
+                    <div class="col-md-9">
+                        @Html.TextArea("makaleIcerik", null, new { @class = "textareapr" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Makale Buton İçeriyormu</label>
+                    <div class="col-md-9">
+                        Evet: @Html.RadioButton("makaleButonIceriyormu", true)
+                        Hayır: @Html.RadioButton("makaleButonIceriyormu", false)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Button Text</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("buttonText", null, new { @class = "textboxpr" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1" class="control-label col-md-3">Button Link</label>
+                    <div class="col-md-9">
+                        @Html.TextBox("buttonLink", null, new { @class = "textboxpr" })
+                    </div>
+                </div>
+                <br />
+                <button type="submit" class="btb btn-primary">Gönder</button>
+            </div>
+        }
+    </div>
+</body>
+</html>

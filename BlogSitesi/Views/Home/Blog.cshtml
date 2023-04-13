@@ -1,0 +1,34 @@
+﻿@model BlogSitesi.Models.ModelManager
+@{
+    ViewBag.Title = "Blog Sitesi";
+}
+
+@foreach (var makale in Model.makaleMenu)
+{
+    var bileske = "blog" + makale.Id;
+    <div class="w3-card-4 w3-margin w3-white" id=@bileske style="margin-bottom:50px">
+        <img src=@makale.image alt="Görsel" style="width:100%;">
+        <div class="w3-container">
+            <h3><b>@makale.makaleBaslik</b></h3>
+            <h5>@makale.altBaslik, <span class="w3-opacity">@makale.makaleTarih</span></h5>
+        </div>
+
+        <div class="w3-container">
+            <p style="text-align:justify">@makale.makaleIcerik</p>
+            @if (makale.makaleButonIceriyormu == true)
+            {
+                <div class="w3-row" style="text-align: center;">
+
+                    <p><a href=@makale.buttonLink target="_blank"><button class="w3-button w3-padding-large w3-white w3-border" style="border-radius:5px"><b>@makale.buttonText</b></button></a></p>
+
+                </div>
+            }
+
+        </div>
+    </div>
+}
+
+<br />
+
+
+

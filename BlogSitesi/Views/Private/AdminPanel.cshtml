@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminPanel</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body style="text-align:center">
+    <div class="container" style="max-width: 300px; margin: 120px auto">
+            @using (Html.BeginForm("AdminPanel", "Private", FormMethod.Post))
+            {
+                <div class="w3-container" style="text-align:left">
+                    <label class="w3-text-blue"><b>Username</b></label>
+                    @Html.TextBox("Username", null, new { @class = "w3-input w3-border" })
+
+                    <br />
+                    <label class="w3-text-blue"><b>Password</b></label>
+                    @Html.TextBox("Password", null, new { @class = "w3-input w3-border" })
+                    <br />
+                    <button class="w3-btn w3-blue" style="margin-top:5px">Login</button>
+                </div>
+            }
+    </div>
+</body>
+</html>

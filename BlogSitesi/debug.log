@@ -1,0 +1,324 @@
+[0410/140743.141:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/140743.354:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/140743.537:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0410/153737.519:ERROR:tcp_socket_win.cc(880)] connect failed: 10013
+[0410/154559.071:ERROR:tcp_socket_win.cc(880)] connect failed: 10013
+[0410/164619.476:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 3
+[0410/165441.256:INFO:CONSOLE(0)] "Refused to frame 'https://www.linkedin.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self' *.linkedin.com teams.microsoft.com client.learningapp.microsoft.com".
+", source:  (0)
+[0410/165443.441:INFO:CONSOLE(0)] "Refused to frame 'https://www.linkedin.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self' *.linkedin.com teams.microsoft.com client.learningapp.microsoft.com".
+", source:  (0)
+[0410/165443.441:INFO:CONSOLE(0)] "[Report Only] Refused to frame 'https://www.linkedin.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self' *.www.linkedin.com:*".
+", source:  (0)
+[0410/165510.042:INFO:CONSOLE(0)] "Refused to frame 'https://www.linkedin.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self' *.linkedin.com teams.microsoft.com client.learningapp.microsoft.com".
+", source:  (0)
+[0410/165510.042:INFO:CONSOLE(0)] "[Report Only] Refused to frame 'https://www.linkedin.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self' *.www.linkedin.com:*".
+", source:  (0)
+[0410/165514.617:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/165514.996:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/165516.694:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/165517.070:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/165540.435:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/165543.651:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165543.723:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165543.939:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165544.014:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165544.730:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165544.802:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165544.882:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165544.952:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165756.569:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165756.640:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165756.695:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/165756.778:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0410/170001.900:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 7
+[0410/170002.922:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 13
+[0410/170017.450:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 5
+[0410/170103.966:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 45
+[0410/170105.542:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 59
+[0410/170107.794:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 77
+[0410/170108.569:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 81
+[0410/170129.948:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 21
+[0410/170130.874:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 29
+[0410/170452.652:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170452.657:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170454.901:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170454.918:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170454.941:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170454.951:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170457.657:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170457.672:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/170821.564:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 5
+[0410/170822.890:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 15
+[0410/170829.701:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 35
+[0410/170829.734:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 37
+[0410/170836.154:INFO:CONSOLE(0)] "Refused to display 'https://twitter.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0410/170837.524:INFO:CONSOLE(0)] "Refused to display 'https://twitter.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0410/170839.423:INFO:CONSOLE(0)] "Refused to display 'https://twitter.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0410/171235.055:INFO:CONSOLE(0)] "Refused to display 'https://twitter.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0410/171251.234:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171251.243:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171251.251:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171638.821:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171638.826:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171731.880:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171731.891:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171731.895:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171732.159:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0410/171912.914:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 23
+[0410/172116.808:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 91
+[0410/172123.602:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 99
+[0410/172127.228:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 111
+[0410/172128.850:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 125
+[0410/172132.326:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 133
+[0410/172132.776:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 137
+[0410/172133.251:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 141
+[0410/172137.992:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 147
+[0410/172138.413:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 151
+[0410/172204.707:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 191
+[0410/172206.016:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 201
+[0410/172214.684:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 219
+[0410/172215.618:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 227
+[0410/172216.030:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 231
+[0410/172219.367:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 243
+[0410/172226.060:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 251
+[0410/172228.841:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 259
+[0410/172231.709:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 267
+[0410/172237.069:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 283
+[0410/172237.473:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 287
+[0410/172238.586:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 295
+[0410/172238.984:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 299
+[0410/172240.408:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 311
+[0410/172240.743:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 315
+[0410/172241.248:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 321
+[0410/172244.704:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 331
+[0410/172427.181:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 53
+[0410/172501.695:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 79
+[0410/172512.384:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 107
+[0410/172516.242:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 115
+[0410/172521.217:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 135
+[0410/173029.805:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 185
+[0410/173105.050:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 217
+[0410/173124.117:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 225
+[0410/173210.214:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 277
+[0410/173256.912:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 363
+[0410/173732.174:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 393
+[0410/174010.905:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 411
+[0410/174023.503:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 429
+[0410/174041.767:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 1
+[0410/174041.782:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 457
+[0410/174042.126:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174047.739:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174047.868:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174115.900:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174120.746:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174120.919:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 477
+[0410/174121.291:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174131.880:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174132.339:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174135.707:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174138.411:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174138.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174139.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174139.665:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 503
+[0410/174139.880:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174140.737:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174141.358:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174141.519:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 513
+[0410/174141.810:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174141.873:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 517
+[0410/174142.040:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174144.215:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174146.193:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174146.793:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174154.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174154.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174158.077:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174158.591:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174202.507:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 41
+[0410/174202.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174300.348:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174300.462:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174304.435:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174304.914:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174310.944:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174312.029:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174313.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174314.268:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174314.440:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 579
+[0410/174314.677:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174327.735:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174327.878:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174331.783:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174334.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174338.248:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174339.982:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174343.241:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174343.354:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174357.132:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174357.271:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0410/174402.039:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174402.060:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 617
+[0410/174402.634:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174405.569:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174406.085:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 625
+[0410/174406.351:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174556.210:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 75
+[0410/174556.770:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174600.727:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174602.361:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174603.698:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174603.723:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 649
+[0410/174603.957:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174607.832:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174608.318:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 657
+[0410/174608.567:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174610.003:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174610.173:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 665
+[0410/174610.468:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174712.688:INFO:CONSOLE(0)] "Refused to frame 'https://github.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'none'".
+", source:  (0)
+[0410/174716.502:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 681
+[0410/174718.176:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 693
+[0410/174955.294:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 713
+[0410/175030.546:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 759
+[0410/175318.043:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 789
+[0410/175318.941:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 793
+[0410/175356.959:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 821
+[0410/175559.851:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 31
+[0410/175610.263:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 45
+[0410/175612.427:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 55
+[0410/175612.788:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 57
+[0410/180038.102:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 137
+[0410/180046.555:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 149
+[0410/180103.909:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 185
+[0410/180158.641:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 243
+[0410/180206.738:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 251
+[0410/180933.412:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 411
+[0410/181325.742:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/181325.917:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/181326.067:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0410/181858.617:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 21
+[0410/181914.705:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 9
+[0410/181945.527:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 5
+[0410/181948.927:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 11
+[0410/181949.392:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 15
+[0410/182050.543:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 7
+[0410/182124.157:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 9
+[0410/182223.715:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 13
+[0410/182342.308:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 17
+[0410/182400.643:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 63
+[0410/182409.824:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 13
+[0410/182409.865:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 15
+[0410/182413.446:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 5
+[0410/182415.278:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 13
+[0410/182514.617:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 7
+[0410/182620.772:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 93
+[0410/182637.402:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 123
+[0410/182719.133:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 183
+[0410/182739.045:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 217
+[0410/182740.302:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 229
+[0410/182747.267:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 245
+[0410/182747.462:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 249
+[0410/182748.653:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 261
+[0410/182750.519:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 273
+[0410/182833.903:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 303
+[0410/182834.869:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 313
+[0410/182835.318:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 317
+[0410/182835.686:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 319
+[0410/182844.495:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 335
+[0410/182850.155:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 355
+[0410/182851.583:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 369
+[0410/182916.445:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 411
+[0410/182917.556:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 419
+[0410/182928.599:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 451
+[0410/182929.319:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 457
+[0410/182939.382:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 479
+[0410/182939.813:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 481
+[0410/182944.878:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 497
+[0410/182947.067:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 505
+[0410/183029.971:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 541
+[0410/183318.729:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 591
+[0410/183408.502:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 627
+[0410/183408.529:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 629
+[0410/183450.459:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 11
+[0410/183507.531:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 31
+[0410/183508.381:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 41
+[0410/183520.138:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 75
+[0410/183538.165:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 99
+[0410/183554.534:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 125
+[0410/183602.267:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 133
+[0410/183604.316:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 145
+[0410/183609.365:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 153
+[0410/183700.597:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 205
+[0410/183716.184:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 229
+[0410/183730.976:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 245
+[0410/183749.717:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 275
+[0410/183755.091:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 289
+[0410/183758.188:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 305
+[0410/183758.541:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 307
+[0410/183759.902:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 319
+[0410/183800.291:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 323
+[0410/183803.164:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 335
+[0410/183818.404:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 343
+[0410/183927.281:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 7
+[0410/183935.352:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 19
+[0410/183938.581:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 27
+[0410/183940.349:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 35
+[0410/184058.075:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 27
+[0410/184127.268:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 15
+[0410/184127.644:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 17
+[0410/184149.933:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 39
+[0410/184316.575:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 97
+[0410/184322.283:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 113
+[0410/184328.415:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 121
+[0410/184331.781:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 129
+[0410/184420.842:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 163
+[0410/184453.844:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 189
+[0410/184527.129:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 205
+[0410/184556.934:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 241
+[0410/190042.964:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 7
+[0410/190048.158:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 15
+[0410/190115.584:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 23
+[0410/190115.976:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 27
+[0410/190329.081:WARNING:spdy_session.cc(3505)] Received HEADERS for invalid stream 93
+[0410/191806.904:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/191807.123:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0410/191807.324:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0411/031940.169:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0411/031940.436:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[0411/031940.649:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0411/041356.658:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0411/041356.728:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=1073807364
+[0411/041356.728:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 1 time(s)
+[0411/041356.887:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[0411/041356.887:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 2 time(s)
+[0411/041356.935:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[0411/041356.935:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 3 time(s)
+[0411/041356.935:FATAL:gpu_data_manager_impl_private.cc(414)] GPU process isn't usable. Goodbye.
